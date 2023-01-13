@@ -1,0 +1,41 @@
+
+                <!--<div class="container">
+                    <div class="row">
+                        <div class="col-xl-10 col-lg-10 col-md-6 a-left pad-lef">
+                            <span class="mail">
+                                Email:
+                                <a  class="mail" href="mailto:awesome@gmail.com">awesome@gmail.com</a>
+                            </span>
+                            <span class="space">|</span>
+                            <span class="phone">
+                                Hotline hỗ trợ khách hàng: 
+                            <a href="tel:19006750">1900 6750</a>
+                            <i></i>
+                            </span>
+                        </div>
+                        <div class="col-xl-2 col-lg-2 col-md-6 col-12">
+                            <ul class="follow_option">
+                                <li>
+                                    <a href="#" title="Theo dõi Instagram Template Avex Construction">
+                                        <span class="fa"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" title="Theo dõi Facebook Template Avex Construction">
+                                        <span class="fa"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" title="Theo dõi Youtube Template Avex Construction">
+                                        <span class="fa"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" title="Theo dõi Twitter Template Avex Construction">
+                                        <span class="fa"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>-->
